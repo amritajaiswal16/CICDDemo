@@ -1,7 +1,8 @@
-@isTest
-private class HelloWorldTestClass {
- static testMethod void validateHelloWorld() {
+    @isTest
+    private class HelloWorldTestClass {
+    static testMethod void validateHelloWorld() {
 
- System.debug('Price after trigger fired: ');
- }
-} 
+    System.debug('Test Class D1 ');
+    System.debug('Test Class Hello World');
+    }
+    } 
